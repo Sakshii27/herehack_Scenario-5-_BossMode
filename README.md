@@ -5,7 +5,7 @@
 
 ## 🛒 Problem Statement
 
-Senario 5: Predict best suited location for shop/ATM/Billboard etc. based on geo location data and visualize on maps
+Senario 5: Predict best suited location for shop/ATM/Billboard etc. based on geo location data and visualize on maps.
 
 ## 💡 Solution
 
