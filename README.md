@@ -31,11 +31,11 @@ Proper connectivity through roads, metro, railways etc.
 - Content Management Systems
 - Geolocation
 - Here Maps API
-- Clustering Markers
 - Next.js
 - ServerSideProps
-- Sanity SDK
-- React Hooks
+- Html
+- Css
+- Javascript
 
 ## ⛓️Created & Maintained By
 
